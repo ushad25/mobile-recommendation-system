@@ -44,6 +44,15 @@ This project focuses on building a recommendation system for mobile phones using
 ## Challenges Faced:
 - **Data Sparsity:** Sparse datasets with many missing user-item interactions were addressed with matrix factorization techniques.
 - **Cold Start Problem:** New users or items with few interactions are harder to recommend, which was managed by the structure of the user-item matrix and SVD.
+## images:
+![image](https://github.com/user-attachments/assets/de298665-6d1a-45ee-9566-7f2a66d50cd8)
+![image](https://github.com/user-attachments/assets/cbb1db4e-95d6-45da-aee0-6eeaa0fd5ffc)
+![image](https://github.com/user-attachments/assets/aa731dd9-e935-4da9-b8f5-72968cd3d211)
+![image](https://github.com/user-attachments/assets/0634d185-01f3-4bbb-a28b-22c1f8e49451)
+![image](https://github.com/user-attachments/assets/ac15942d-0084-46c7-8dcd-c30f193f34ce)
+
+
+
 
 ## Conclusion:
 This recommendation system successfully predicts user preferences for mobile phones using collaborative filtering techniques, particularly matrix factorization (SVD). It delivers a highly personalized experience by recommending mobile phones that users are likely to enjoy, based on ratings from similar users. 
